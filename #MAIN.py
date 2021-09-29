@@ -1,2 +1,2 @@
 #MAIN
-input: "Alvanotre"
+output: "Alvanotre "
