@@ -1,0 +1,2 @@
+#MAIN
+input: "Alvanotre"
