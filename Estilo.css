@@ -1,0 +1,44 @@
+h1{
+    color: black;
+    font-size: x-large;
+    font-family: "Copperplate";
+    position: absolute;
+    left: 930px;
+    top: 20%;
+   }
+   p1{
+       position: absolute;
+       left: 46%;
+       top: 0%;
+       
+       border-radius: 50%;
+   }
+   p3{
+    color: black;
+    font-size: x-large;
+    font-family: "Copperplate";
+    position: absolute;
+    left: 25%;
+    top: 30%; 
+   }
+   p2{
+    color: black;
+    font-size: x-large;
+    font-family: "Copperplate";
+    position: absolute;
+    left: 50%;
+    top: 30%; 
+   }
+   p4{
+    color: black;
+    font-size: x-large;
+    font-family: "Copperplate";
+    position: absolute;
+    left: 75%;
+    top: 30%; 
+   }
+   body{
+   }
+   p5{
+     
+   }
