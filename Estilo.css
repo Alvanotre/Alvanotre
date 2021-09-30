@@ -39,6 +39,10 @@ h1{
    }
    body{
    }
-   p5{
-     
+   p6{
+     position: absolute;
+     top: 30%;
+     left: 10%;
+     border-color: black;
+     border: 100px black;
    }
